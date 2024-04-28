@@ -1,0 +1,2 @@
+echo "Tere, maailm!"
+pause
